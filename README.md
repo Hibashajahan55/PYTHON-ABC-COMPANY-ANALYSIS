@@ -44,11 +44,11 @@ The graphs included in the project are:
 6. Salary Expenditure by Team and Position (Heat map)
 
 # TECHNOLOGIES USED
-#### * Python: Primary programming language.
-#### * Pandas: Data manipulation and analysis.
-#### * NumPy: Numerical computations and data transformations.
-#### * Seaborn & Matplotlib: Data visualization.
-#### * Jupyter Notebook: Development environment.
+#### Python: Primary programming language.
+#### Pandas: Data manipulation and analysis.
+#### NumPy: Numerical computations and data transformations.
+#### Seaborn & Matplotlib: Data visualization.
+#### Jupyter Notebook: Development environment.
 
 # CONCLUSION
 This project provided a comprehensive analysis of ABC Company’s employee salary distribution. The results help in understanding salary allocation across teams and positions, as well as identifying key trends in employee demographics. The insights can assist in better financial planning and talent management strategies within the organization.
